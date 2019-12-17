@@ -17,5 +17,3 @@ class Dog
     @breed
   end
 end
-
-lassie = Dog.new ("Collie")
